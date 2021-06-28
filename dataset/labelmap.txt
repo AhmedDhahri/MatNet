@@ -1,0 +1,18 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+brick:114,114,223::
+ceramic:250,50,183::
+fabric:255,204,51::
+foliage:36,179,83::
+food:118,211,58::
+fur:184,61,245::
+glass:52,209,183::
+leather:212,103,122::
+metal:129,129,129::
+others:120,36,121::
+paper:185,123,7::
+plastic:255,0,0::
+skin:138,6,7::
+stone:71,51,163::
+water:42,125,209::
+wood:245,147,49::
